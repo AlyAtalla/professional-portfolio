@@ -1,14 +1,14 @@
 .main {
   background: url(images/Illustration-header.png);
-  
-  background-position: fixed;
- 
-  background-color: black;
-  position: absolute;
-width: 1440px;
-height: 870px;
-left: 0px;
-top: 0px;
-background-repeat: no-repeat;
-background-size: cover;
+
+  background-position:fixed;
+
+  background-color:black;
+  position:absolute;
+  width:1440px;
+  height:870px;
+  left:0px;
+  top:0px;
+  background-repeat:no-repeat;
+  background-size:cover;
 }
